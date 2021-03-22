@@ -1,0 +1,9 @@
+{
+    "name": "ontic/magento2ce",
+    "description": "Magento 2 (Open Source)",
+    "type": "project",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ]
+}
